@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 auto;
+    width: 90vw; /* Set width using viewport width */
+    padding-top: 50px;
+    padding-bottom: 50px;
+    min-height: calc(100vh - 100px); /* 100% of viewport height minus top and bottom padding */
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  .event-img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .event-title {
+    font-size: 3rem;
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  main {
+    padding-top: 20px;
+  }
+  
+  section {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+  
+  h2 {
+    font-size: 2rem;
+    color: #444;
+  }
+  
+  hr {
+    width: 80%;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+  }
+  
